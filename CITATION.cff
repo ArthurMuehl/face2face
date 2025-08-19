@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: face2face
+message: face to face interaction toolkit
+type: software
+authors:
+  - given-names: Johann
+    family-names: Schaible
+    email: johann.schaible@th-koeln.de
+    affiliation: Technische Hochschule Köln
+    orcid: 'https://orcid.org/0000-0002-5441-7640'
+identifiers:
+  - type: url
+    value: 'https://gesiscss.github.io/face2face/'
+repository-code: 'https://github.com/gesiscss/face2face'
+url: >-
+  https://gesiscss.github.io/face2face/_build/html/index.html
+repository: 'https://pypi.org/project/face2face/'
+license: GPL-3.0
